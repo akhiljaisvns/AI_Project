@@ -1,0 +1,501 @@
+complaint_id,state,submission_date,department,category,complaint_description,status,resolution_days
+JS-0362,Rajasthan,2026-08-07,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. Please resolve this issue as soon as possible.,Resolved,12.0
+JS-0074,Rajasthan,2025-10-13,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. Kindly take necessary action.,Resolved,25.0
+JS-0375,Uttar Pradesh,2026-08-10,Roads and Transport,Roads and Transport,Road construction work has been incomplete for several months. Please resolve this issue as soon as possible.,Resolved,7.0
+JS-0156,Bihar,2026-05-21,Electricity,Electricity,Our electricity connection application is still pending. This problem is affecting daily life.,Under Process,
+JS-0105,Uttarakhand,2026-05-13,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. We have already complained but no action has been taken.,Resolved,13.0
+JS-0395,Uttarakhand,2025-11-02,Roads and Transport,Roads and Transport,The main road in our village is damaged and full of potholes. Please resolve this issue as soon as possible.,Resolved,30.0
+JS-0378,Jharkhand,2025-08-01,Roads and Transport,Roads and Transport,Road construction work has been incomplete for several months. This problem is affecting daily life.,Pending,
+JS-0125,Uttarakhand,2026-09-17,Electricity,Electricity,Frequent power cuts are affecting residents and students. This problem is affecting daily life.,Under Process,
+JS-0069,Delhi,2025-08-31,Water Supply,Water Supply,Our village hand pump is not working and needs repair. Many families are facing difficulties.,Resolved,26.0
+JS-0451,Delhi,2025-06-22,Municipal Services,Municipal Services,The public park is not being maintained properly. We have already complained but no action has been taken. Contact number: 9000000000,Pending,
+JS-0010,Madhya Pradesh,2025-03-13,Water Supply,Water Supply,Our village hand pump is not working and needs repair. Many families are facing difficulties.,Resolved,22.0
+JS-0195,Rajasthan,2026-01-26,Electricity,Electricity,There has been a power outage in our locality for many hours. Many families are facing difficulties.,Pending,
+JS-0407,Haryana,2026-04-11,Municipal Services,Municipal Services,The public park is not being maintained properly. Many families are facing difficulties.,Pending,
+JS-0085,Jharkhand,2026-09-14,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. This problem is affecting daily life.,Pending,
+JS-0372,Jharkhand,2025-11-12,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. This problem is affecting daily life.,Resolved,20.0
+JS-0389,Haryana,2025-08-27,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. Many families are facing difficulties.,Resolved,4.0
+JS-0496,Madhya Pradesh,2025-05-23,Municipal Services,Municipal Services,The public park is not being maintained properly. We have already complained but no action has been taken.,Pending,
+JS-0031,Madhya Pradesh,2025-09-29,Water Supply,Water Supply,Our village hand pump is not working and needs repair. Many families are facing difficulties. Contact number: 9000000000,Under Process,
+JS-0317,Bihar,2026-01-12,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. We have already complained but no action has been taken.,Pending,
+JS-0409,Uttarakhand,2026-06-23,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. Please resolve this issue as soon as possible.,Under Process,
+JS-0491,Delhi,2026-05-06,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. Many families are facing difficulties. Contact number: 9000000000,Pending,
+JS-0492,Madhya Pradesh,2025-10-26,Municipal Services,Municipal Services,The public park is not being maintained properly. Kindly take necessary action.,Under Process,
+JS-0281,Rajasthan,2025-01-19,Public Distribution System,Public Distribution System,The ration shop is demanding extra money for food grains. Kindly take necessary action. Contact number: 9000000000,Pending,
+JS-0357,Haryana,2026-05-25,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. Kindly take necessary action.,Resolved,3.0
+JS-0077,Uttarakhand,2026-03-21,Water Supply,Water Supply,There has been no water supply in our locality for several days. This problem is affecting daily life.,Pending,
+JS-0462,Bihar,2025-09-07,Municipal Services,Municipal Services,The public park is not being maintained properly. This problem is affecting daily life.,Resolved,10.0
+JS-0498,Haryana,2026-05-06,Municipal Services,Municipal Services,The public park is not being maintained properly. This problem is affecting daily life.,Under Process,
+JS-0212,Haryana,2026-03-06,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. This problem is affecting daily life.,Resolved,29.0
+JS-0102,Haryana,2026-02-03,Electricity,Electricity,The electricity bill is unusually high despite low consumption. We have already complained but no action has been taken.,Resolved,28.0
+JS-0335,Uttarakhand,2026-05-21,Roads and Transport,Roads and Transport,Road construction work has been incomplete for several months. Many families are facing difficulties.,Resolved,12.0
+JS-0476,Delhi,2025-03-26,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. Please resolve this issue as soon as possible.,Pending,
+JS-0337,Haryana,2026-06-23,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. We have already complained but no action has been taken.,Under Process,
+JS-0441,Madhya Pradesh,2025-01-16,Municipal Services,Municipal Services,There is an overflowing drain near our residential area. Kindly take necessary action. Contact number: 9000000000,Resolved,30.0
+JS-0174,Uttar Pradesh,2025-12-15,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. We have already complained but no action has been taken.,Pending,
+JS-0003,Uttar Pradesh,2025-08-12,Water Supply,Water Supply,There has been no water supply in our locality for several days. Please resolve this issue as soon as possible.,Resolved,17.0
+JS-0334,Madhya Pradesh,2026-06-05,Roads and Transport,Roads and Transport,Road construction work has been incomplete for several months. Kindly take necessary action.,Resolved,4.0
+JS-0410,Madhya Pradesh,2025-04-25,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. This problem is affecting daily life.,Resolved,27.0
+JS-0071,Uttar Pradesh,2025-06-13,Water Supply,Water Supply,The drinking water pipeline is leaking and wasting water. Kindly take necessary action. Contact number: 9000000000,Resolved,13.0
+JS-0210,Jharkhand,2025-02-08,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. Please resolve this issue as soon as possible.,Pending,
+JS-0064,Uttar Pradesh,2026-07-19,Water Supply,Water Supply,The drinking water pipeline is leaking and wasting water. We have already complained but no action has been taken.,Under Process,
+JS-0385,Bihar,2025-10-25,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. Many families are facing difficulties.,Resolved,10.0
+JS-0094,Jharkhand,2026-07-27,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. This problem is affecting daily life.,Pending,
+JS-0486,Rajasthan,2026-05-11,Municipal Services,Municipal Services,The public park is not being maintained properly. Kindly take necessary action.,Resolved,12.0
+JS-0186,Delhi,2025-04-11,Electricity,Electricity,There has been a power outage in our locality for many hours. We have already complained but no action has been taken.,Resolved,15.0
+JS-0034,Madhya Pradesh,2025-01-22,Water Supply,Water Supply,There has been no water supply in our locality for several days. Kindly take necessary action.,Resolved,19.0
+JS-0078,Madhya Pradesh,2026-06-08,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. This problem is affecting daily life.,Resolved,13.0
+JS-0001,Delhi,2025-10-09,Water Supply,Water Supply,There has been no water supply in our locality for several days. Please resolve this issue as soon as possible. Contact number: 9000000000,Resolved,8.0
+JS-0012,Uttarakhand,2025-06-16,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. Kindly take necessary action.,Pending,
+JS-0416,Uttarakhand,2025-03-16,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. This problem is affecting daily life.,Resolved,14.0
+JS-0023,Bihar,2025-10-01,Water Supply,Water Supply,There has been no water supply in our locality for several days. This problem is affecting daily life.,Pending,
+JS-0073,Madhya Pradesh,2025-08-17,Water Supply,Water Supply,Water pressure is very low in our residential area. Many families are facing difficulties.,Resolved,22.0
+JS-0183,Uttarakhand,2026-02-12,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. This problem is affecting daily life.,Resolved,28.0
+JS-0132,Uttarakhand,2025-12-19,Electricity,Electricity,Our electricity connection application is still pending. This problem is affecting daily life.,Under Process,
+JS-0411,Jharkhand,2025-06-03,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. This problem is affecting daily life. Contact number: 9000000000,Resolved,11.0
+JS-0194,Jharkhand,2025-07-23,Electricity,Electricity,Frequent power cuts are affecting residents and students. Kindly take necessary action.,Under Process,
+JS-0056,Bihar,2025-05-16,Water Supply,Water Supply,Our village hand pump is not working and needs repair. Kindly take necessary action.,Pending,
+JS-0149,Jharkhand,2025-06-10,Electricity,Electricity,Our electricity connection application is still pending. Please resolve this issue as soon as possible.,Resolved,14.0
+JS-0019,Jharkhand,2026-01-06,Water Supply,Water Supply,Our village hand pump is not working and needs repair. We have already complained but no action has been taken.,Resolved,5.0
+JS-0205,Haryana,2026-01-10,Public Distribution System,Public Distribution System,My name is missing from the ration card beneficiary list. This problem is affecting daily life.,Resolved,26.0
+JS-0079,Madhya Pradesh,2026-03-23,Water Supply,Water Supply,Water pressure is very low in our residential area. Please resolve this issue as soon as possible.,Resolved,17.0
+JS-0495,Bihar,2026-03-25,Municipal Services,Municipal Services,The public park is not being maintained properly. Many families are facing difficulties.,Pending,
+JS-0263,Uttarakhand,2025-07-18,Public Distribution System,Public Distribution System,The ration shop is demanding extra money for food grains. This problem is affecting daily life.,Pending,
+JS-0324,Uttarakhand,2025-03-10,Roads and Transport,Roads and Transport,The main road in our village is damaged and full of potholes. Many families are facing difficulties.,Resolved,25.0
+JS-0484,Rajasthan,2025-10-03,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. Many families are facing difficulties.,Pending,
+JS-0080,Uttarakhand,2025-03-13,Water Supply,Water Supply,Water pressure is very low in our residential area. We have already complained but no action has been taken.,Pending,
+JS-0040,Bihar,2026-02-17,Water Supply,Water Supply,There has been no water supply in our locality for several days. Please resolve this issue as soon as possible.,Pending,
+JS-0452,Uttar Pradesh,2026-05-16,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. This problem is affecting daily life.,Resolved,30.0
+JS-0047,Rajasthan,2026-05-14,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. This problem is affecting daily life.,Resolved,7.0
+JS-0239,Jharkhand,2025-08-06,Public Distribution System,Public Distribution System,The ration shop is demanding extra money for food grains. This problem is affecting daily life.,Resolved,22.0
+JS-0392,Madhya Pradesh,2025-03-02,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. Kindly take necessary action.,Resolved,21.0
+JS-0353,Madhya Pradesh,2025-10-01,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. Please resolve this issue as soon as possible.,Under Process,
+JS-0342,Rajasthan,2025-08-19,Roads and Transport,Roads and Transport,Road construction work has been incomplete for several months. Kindly take necessary action.,Pending,
+JS-0278,Haryana,2025-12-25,Public Distribution System,Public Distribution System,The ration shop is demanding extra money for food grains. Many families are facing difficulties.,Pending,
+JS-0291,Uttar Pradesh,2025-05-22,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. This problem is affecting daily life. Contact number: 9000000000,Pending,
+JS-0318,Rajasthan,2026-03-17,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. Please resolve this issue as soon as possible.,Resolved,18.0
+JS-0305,Bihar,2026-03-03,Roads and Transport,Roads and Transport,Road construction work has been incomplete for several months. This problem is affecting daily life.,Resolved,22.0
+JS-0269,Uttarakhand,2026-04-08,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. We have already complained but no action has been taken.,Resolved,2.0
+JS-0070,Haryana,2025-07-03,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. Please resolve this issue as soon as possible.,Pending,
+JS-0456,Jharkhand,2026-09-24,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. This problem is affecting daily life.,Under Process,
+JS-0466,Jharkhand,2025-08-24,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. Please resolve this issue as soon as possible.,Resolved,29.0
+JS-0155,Rajasthan,2025-11-08,Electricity,Electricity,There has been a power outage in our locality for many hours. We have already complained but no action has been taken.,Under Process,
+JS-0083,Haryana,2026-09-23,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. Many families are facing difficulties.,Pending,
+JS-0478,Jharkhand,2025-01-06,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. Please resolve this issue as soon as possible.,Pending,
+JS-0173,Bihar,2026-09-06,Electricity,Electricity,Frequent power cuts are affecting residents and students. Many families are facing difficulties.,Resolved,28.0
+JS-0322,Haryana,2025-10-09,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. We have already complained but no action has been taken.,Resolved,3.0
+JS-0091,Haryana,2025-01-06,Water Supply,Water Supply,The drinking water pipeline is leaking and wasting water. Many families are facing difficulties. Contact number: 9000000000,Resolved,25.0
+JS-0181,Uttar Pradesh,2025-04-13,Electricity,Electricity,There has been a power outage in our locality for many hours. We have already complained but no action has been taken. Contact number: 9000000000,Under Process,
+JS-0415,Uttar Pradesh,2026-02-10,Municipal Services,Municipal Services,There is an overflowing drain near our residential area. Please resolve this issue as soon as possible.,Pending,
+JS-0313,Rajasthan,2026-07-11,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. We have already complained but no action has been taken.,Under Process,
+JS-0279,Haryana,2025-03-28,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. This problem is affecting daily life.,Pending,
+JS-0382,Uttarakhand,2025-08-01,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. Kindly take necessary action.,Under Process,
+JS-0473,Jharkhand,2026-10-12,Municipal Services,Municipal Services,There is an overflowing drain near our residential area. Please resolve this issue as soon as possible.,Pending,
+JS-0363,Rajasthan,2026-06-01,Roads and Transport,Roads and Transport,The main road in our village is damaged and full of potholes. We have already complained but no action has been taken.,Under Process,
+JS-0325,Delhi,2026-08-04,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. We have already complained but no action has been taken.,Resolved,20.0
+JS-0432,Haryana,2025-02-18,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. We have already complained but no action has been taken.,Pending,
+JS-0348,Rajasthan,2025-09-08,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. We have already complained but no action has been taken.,Under Process,
+JS-0087,Bihar,2026-06-12,Water Supply,Water Supply,There has been no water supply in our locality for several days. Kindly take necessary action.,Pending,
+JS-0076,Uttar Pradesh,2025-07-02,Water Supply,Water Supply,There has been no water supply in our locality for several days. Kindly take necessary action.,Pending,
+JS-0439,Bihar,2026-09-10,Municipal Services,Municipal Services,The public park is not being maintained properly. This problem is affecting daily life.,Resolved,28.0
+JS-0016,Uttarakhand,2025-03-09,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. Kindly take necessary action.,Resolved,30.0
+JS-0250,Haryana,2025-08-09,Public Distribution System,Public Distribution System,My name is missing from the ration card beneficiary list. Kindly take necessary action.,Resolved,12.0
+JS-0434,Madhya Pradesh,2025-07-08,Municipal Services,Municipal Services,There is an overflowing drain near our residential area. We have already complained but no action has been taken.,Under Process,
+JS-0020,Delhi,2025-04-23,Water Supply,Water Supply,There has been no water supply in our locality for several days. Please resolve this issue as soon as possible.,Resolved,21.0
+JS-0323,Jharkhand,2025-06-13,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. This problem is affecting daily life.,Resolved,5.0
+JS-0333,Delhi,2025-10-25,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. This problem is affecting daily life.,Pending,
+JS-0057,Rajasthan,2025-10-19,Water Supply,Water Supply,The drinking water pipeline is leaking and wasting water. Kindly take necessary action.,Resolved,15.0
+JS-0302,Bihar,2026-03-06,Roads and Transport,Roads and Transport,The main road in our village is damaged and full of potholes. Many families are facing difficulties.,Under Process,
+JS-0230,Haryana,2025-10-29,Public Distribution System,Public Distribution System,The ration shop is demanding extra money for food grains. This problem is affecting daily life.,Under Process,
+JS-0332,Bihar,2025-11-24,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. Please resolve this issue as soon as possible.,Pending,
+JS-0133,Rajasthan,2025-10-05,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. We have already complained but no action has been taken.,Pending,
+JS-0138,Uttar Pradesh,2026-07-01,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. Please resolve this issue as soon as possible.,Resolved,9.0
+JS-0424,Madhya Pradesh,2025-12-21,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. We have already complained but no action has been taken.,Resolved,9.0
+JS-0336,Rajasthan,2025-05-13,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. This problem is affecting daily life.,Resolved,3.0
+JS-0026,Delhi,2025-07-23,Water Supply,Water Supply,Our village hand pump is not working and needs repair. This problem is affecting daily life.,Resolved,12.0
+JS-0465,Bihar,2026-03-21,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. We have already complained but no action has been taken.,Pending,
+JS-0282,Madhya Pradesh,2025-12-16,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. Many families are facing difficulties.,Under Process,
+JS-0248,Bihar,2026-09-25,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. Many families are facing difficulties.,Resolved,22.0
+JS-0238,Bihar,2025-11-16,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. This problem is affecting daily life.,Pending,
+JS-0118,Uttar Pradesh,2026-09-07,Electricity,Electricity,There has been a power outage in our locality for many hours. Kindly take necessary action.,Resolved,26.0
+JS-0043,Uttar Pradesh,2026-07-18,Water Supply,Water Supply,There has been no water supply in our locality for several days. We have already complained but no action has been taken.,Resolved,2.0
+JS-0221,Uttarakhand,2025-01-27,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. Please resolve this issue as soon as possible. Contact number: 9000000000,Resolved,1.0
+JS-0177,Uttarakhand,2026-01-22,Electricity,Electricity,Our electricity connection application is still pending. This problem is affecting daily life.,Under Process,
+JS-0321,Uttarakhand,2026-04-03,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. Kindly take necessary action. Contact number: 9000000000,Resolved,24.0
+JS-0154,Jharkhand,2026-08-06,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. This problem is affecting daily life.,Pending,
+JS-0232,Haryana,2025-12-14,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. We have already complained but no action has been taken.,Under Process,
+JS-0228,Rajasthan,2025-06-01,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. This problem is affecting daily life.,Resolved,5.0
+JS-0418,Delhi,2026-02-23,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. Kindly take necessary action.,Resolved,25.0
+JS-0204,Madhya Pradesh,2025-03-19,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. We have already complained but no action has been taken.,Resolved,25.0
+JS-0127,Rajasthan,2025-12-15,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. Kindly take necessary action.,Pending,
+JS-0330,Jharkhand,2026-09-19,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. Many families are facing difficulties.,Pending,
+JS-0032,Uttarakhand,2025-11-16,Water Supply,Water Supply,Our village hand pump is not working and needs repair. Many families are facing difficulties.,Under Process,
+JS-0114,Uttarakhand,2026-04-22,Electricity,Electricity,Our electricity connection application is still pending. Many families are facing difficulties.,Pending,
+JS-0471,Uttar Pradesh,2026-05-28,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. Please resolve this issue as soon as possible. Contact number: 9000000000,Pending,
+JS-0272,Jharkhand,2026-05-03,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. This problem is affecting daily life.,Resolved,2.0
+JS-0141,Rajasthan,2025-12-15,Electricity,Electricity,Frequent power cuts are affecting residents and students. We have already complained but no action has been taken. Contact number: 9000000000,Resolved,2.0
+JS-0058,Bihar,2025-01-09,Water Supply,Water Supply,Our village hand pump is not working and needs repair. This problem is affecting daily life.,Pending,
+JS-0193,Rajasthan,2025-11-03,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. This problem is affecting daily life.,Under Process,
+JS-0025,Rajasthan,2025-07-02,Water Supply,Water Supply,Water pressure is very low in our residential area. This problem is affecting daily life.,Resolved,28.0
+JS-0018,Haryana,2025-09-10,Water Supply,Water Supply,Water pressure is very low in our residential area. Many families are facing difficulties.,Pending,
+JS-0266,Uttarakhand,2026-08-17,Public Distribution System,Public Distribution System,My name is missing from the ration card beneficiary list. This problem is affecting daily life.,Under Process,
+JS-0067,Uttarakhand,2026-01-09,Water Supply,Water Supply,There has been no water supply in our locality for several days. Kindly take necessary action.,Resolved,29.0
+JS-0209,Bihar,2025-11-06,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. We have already complained but no action has been taken.,Under Process,
+JS-0480,Bihar,2026-07-25,Municipal Services,Municipal Services,The public park is not being maintained properly. We have already complained but no action has been taken.,Under Process,
+JS-0095,Delhi,2026-03-13,Water Supply,Water Supply,Our village hand pump is not working and needs repair. This problem is affecting daily life.,Under Process,
+JS-0254,Haryana,2025-01-08,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. Please resolve this issue as soon as possible.,Under Process,
+JS-0267,Jharkhand,2026-03-27,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. Many families are facing difficulties.,Resolved,16.0
+JS-0024,Uttar Pradesh,2025-06-11,Water Supply,Water Supply,Water pressure is very low in our residential area. We have already complained but no action has been taken.,Under Process,
+JS-0223,Bihar,2026-03-08,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. Many families are facing difficulties.,Resolved,24.0
+JS-0262,Bihar,2025-06-22,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. Kindly take necessary action.,Resolved,17.0
+JS-0427,Madhya Pradesh,2026-02-16,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. Please resolve this issue as soon as possible.,Under Process,
+JS-0006,Uttarakhand,2025-10-12,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. Kindly take necessary action.,Resolved,7.0
+JS-0117,Madhya Pradesh,2026-02-11,Electricity,Electricity,Our electricity connection application is still pending. We have already complained but no action has been taken.,Resolved,3.0
+JS-0046,Rajasthan,2025-09-29,Water Supply,Water Supply,There has been no water supply in our locality for several days. We have already complained but no action has been taken.,Under Process,
+JS-0017,Delhi,2026-02-10,Water Supply,Water Supply,The drinking water pipeline is leaking and wasting water. We have already complained but no action has been taken.,Under Process,
+JS-0463,Haryana,2026-02-20,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. Please resolve this issue as soon as possible.,Under Process,
+JS-0358,Uttarakhand,2025-09-04,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. We have already complained but no action has been taken.,Resolved,19.0
+JS-0004,Madhya Pradesh,2026-07-13,Water Supply,Water Supply,Our village hand pump is not working and needs repair. Many families are facing difficulties.,Under Process,
+JS-0219,Delhi,2025-08-27,Public Distribution System,Public Distribution System,The ration shop is demanding extra money for food grains. Many families are facing difficulties.,Pending,
+JS-0406,Delhi,2026-09-22,Municipal Services,Municipal Services,There is an overflowing drain near our residential area. Kindly take necessary action.,Resolved,8.0
+JS-0061,Rajasthan,2026-06-02,Water Supply,Water Supply,The drinking water pipeline is leaking and wasting water. Kindly take necessary action. Contact number: 9000000000,Under Process,
+JS-0111,Madhya Pradesh,2026-07-07,Electricity,Electricity,Frequent power cuts are affecting residents and students. Please resolve this issue as soon as possible. Contact number: 9000000000,Resolved,12.0
+JS-0319,Rajasthan,2025-03-23,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. Please resolve this issue as soon as possible.,Pending,
+JS-0429,Madhya Pradesh,2025-11-23,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. This problem is affecting daily life.,Pending,
+JS-0030,Jharkhand,2025-05-09,Water Supply,Water Supply,There has been no water supply in our locality for several days. This problem is affecting daily life.,Resolved,22.0
+JS-0438,Rajasthan,2026-07-03,Municipal Services,Municipal Services,There is an overflowing drain near our residential area. Please resolve this issue as soon as possible.,Resolved,2.0
+JS-0472,Haryana,2025-08-26,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. We have already complained but no action has been taken.,Resolved,11.0
+JS-0027,Jharkhand,2025-01-01,Water Supply,Water Supply,Our village hand pump is not working and needs repair. This problem is affecting daily life.,Pending,
+JS-0008,Bihar,2025-02-14,Water Supply,Water Supply,Our village hand pump is not working and needs repair. Kindly take necessary action.,Under Process,
+JS-0454,Delhi,2026-10-08,Municipal Services,Municipal Services,The public park is not being maintained properly. Many families are facing difficulties.,Resolved,3.0
+JS-0109,Uttarakhand,2026-04-11,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. Many families are facing difficulties.,Pending,
+JS-0038,Haryana,2025-07-14,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. We have already complained but no action has been taken.,Resolved,4.0
+JS-0158,Rajasthan,2025-08-23,Electricity,Electricity,There has been a power outage in our locality for many hours. Please resolve this issue as soon as possible.,Resolved,25.0
+JS-0490,Uttarakhand,2025-05-20,Municipal Services,Municipal Services,The public park is not being maintained properly. This problem is affecting daily life.,Pending,
+JS-0119,Bihar,2026-03-15,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. This problem is affecting daily life.,Pending,
+JS-0115,Delhi,2026-09-14,Electricity,Electricity,The electricity bill is unusually high despite low consumption. This problem is affecting daily life.,Resolved,25.0
+JS-0176,Uttarakhand,2026-05-11,Electricity,Electricity,Frequent power cuts are affecting residents and students. This problem is affecting daily life.,Pending,
+JS-0374,Delhi,2025-06-24,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. We have already complained but no action has been taken.,Under Process,
+JS-0182,Rajasthan,2025-06-08,Electricity,Electricity,The electricity bill is unusually high despite low consumption. We have already complained but no action has been taken.,Resolved,16.0
+JS-0145,Haryana,2026-09-26,Electricity,Electricity,Our electricity connection application is still pending. This problem is affecting daily life.,Resolved,25.0
+JS-0370,Rajasthan,2026-06-30,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. This problem is affecting daily life.,Under Process,
+JS-0391,Rajasthan,2026-05-04,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. We have already complained but no action has been taken. Contact number: 9000000000,Resolved,25.0
+JS-0196,Uttar Pradesh,2026-02-10,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. Please resolve this issue as soon as possible.,Pending,
+JS-0405,Bihar,2026-05-30,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. We have already complained but no action has been taken.,Pending,
+JS-0276,Haryana,2025-12-04,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. Please resolve this issue as soon as possible.,Resolved,18.0
+JS-0455,Uttarakhand,2026-06-02,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. Many families are facing difficulties.,Under Process,
+JS-0142,Jharkhand,2025-03-08,Electricity,Electricity,Frequent power cuts are affecting residents and students. Please resolve this issue as soon as possible.,Under Process,
+JS-0366,Uttar Pradesh,2026-06-06,Roads and Transport,Roads and Transport,Road construction work has been incomplete for several months. This problem is affecting daily life.,Under Process,
+JS-0068,Haryana,2025-04-16,Water Supply,Water Supply,The drinking water pipeline is leaking and wasting water. Many families are facing difficulties.,Pending,
+JS-0211,Jharkhand,2025-08-29,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. Please resolve this issue as soon as possible. Contact number: 9000000000,Resolved,13.0
+JS-0169,Haryana,2026-07-19,Electricity,Electricity,The electricity bill is unusually high despite low consumption. Kindly take necessary action.,Resolved,18.0
+JS-0494,Uttar Pradesh,2025-07-24,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. This problem is affecting daily life.,Resolved,22.0
+JS-0376,Madhya Pradesh,2026-03-05,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. Kindly take necessary action.,Resolved,14.0
+JS-0401,Madhya Pradesh,2026-05-04,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. Many families are facing difficulties. Contact number: 9000000000,Pending,
+JS-0273,Madhya Pradesh,2025-03-28,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. Kindly take necessary action.,Resolved,2.0
+JS-0110,Bihar,2026-03-08,Electricity,Electricity,Frequent power cuts are affecting residents and students. Kindly take necessary action.,Pending,
+JS-0249,Jharkhand,2026-03-11,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. We have already complained but no action has been taken.,Under Process,
+JS-0146,Rajasthan,2025-11-01,Electricity,Electricity,Frequent power cuts are affecting residents and students. We have already complained but no action has been taken.,Under Process,
+JS-0093,Delhi,2025-05-05,Water Supply,Water Supply,Our village hand pump is not working and needs repair. Many families are facing difficulties.,Under Process,
+JS-0153,Delhi,2025-05-26,Electricity,Electricity,The electricity bill is unusually high despite low consumption. Kindly take necessary action.,Resolved,2.0
+JS-0368,Uttarakhand,2025-06-02,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. We have already complained but no action has been taken.,Resolved,11.0
+JS-0468,Delhi,2025-01-17,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. Kindly take necessary action.,Resolved,19.0
+JS-0084,Madhya Pradesh,2025-11-08,Water Supply,Water Supply,Our village hand pump is not working and needs repair. Please resolve this issue as soon as possible.,Pending,
+JS-0246,Rajasthan,2025-06-11,Public Distribution System,Public Distribution System,My name is missing from the ration card beneficiary list. Kindly take necessary action.,Pending,
+JS-0166,Jharkhand,2026-06-15,Electricity,Electricity,There has been a power outage in our locality for many hours. Many families are facing difficulties.,Pending,
+JS-0164,Haryana,2025-11-28,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. Kindly take necessary action.,Resolved,25.0
+JS-0200,Delhi,2025-02-04,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. We have already complained but no action has been taken.,Pending,
+JS-0229,Haryana,2026-07-16,Public Distribution System,Public Distribution System,The ration shop is demanding extra money for food grains. This problem is affecting daily life.,Pending,
+JS-0075,Uttar Pradesh,2026-02-14,Water Supply,Water Supply,Water pressure is very low in our residential area. This problem is affecting daily life.,Pending,
+JS-0479,Delhi,2025-04-15,Municipal Services,Municipal Services,There is an overflowing drain near our residential area. Kindly take necessary action.,Resolved,3.0
+JS-0359,Jharkhand,2025-10-16,Roads and Transport,Roads and Transport,The main road in our village is damaged and full of potholes. Please resolve this issue as soon as possible.,Under Process,
+JS-0251,Rajasthan,2026-08-31,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. Kindly take necessary action. Contact number: 9000000000,Under Process,
+JS-0120,Jharkhand,2025-01-13,Electricity,Electricity,Our electricity connection application is still pending. Kindly take necessary action.,Under Process,
+JS-0311,Madhya Pradesh,2025-02-07,Roads and Transport,Roads and Transport,The main road in our village is damaged and full of potholes. We have already complained but no action has been taken. Contact number: 9000000000,Pending,
+JS-0300,Haryana,2025-08-09,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. Kindly take necessary action.,Resolved,18.0
+JS-0256,Uttar Pradesh,2025-02-13,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. We have already complained but no action has been taken.,Under Process,
+JS-0355,Uttarakhand,2025-09-12,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. We have already complained but no action has been taken.,Resolved,27.0
+JS-0400,Bihar,2025-12-02,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. This problem is affecting daily life.,Resolved,13.0
+JS-0226,Haryana,2026-05-06,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. Please resolve this issue as soon as possible.,Under Process,
+JS-0354,Haryana,2025-02-21,Roads and Transport,Roads and Transport,Road construction work has been incomplete for several months. Please resolve this issue as soon as possible.,Pending,
+JS-0235,Bihar,2025-04-06,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. Please resolve this issue as soon as possible.,Under Process,
+JS-0383,Rajasthan,2026-07-28,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. Kindly take necessary action.,Pending,
+JS-0275,Uttar Pradesh,2026-02-23,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. We have already complained but no action has been taken.,Pending,
+JS-0037,Madhya Pradesh,2025-05-16,Water Supply,Water Supply,The drinking water pipeline is leaking and wasting water. This problem is affecting daily life.,Under Process,
+JS-0197,Rajasthan,2026-09-13,Electricity,Electricity,Our electricity connection application is still pending. Please resolve this issue as soon as possible.,Under Process,
+JS-0140,Jharkhand,2026-08-11,Electricity,Electricity,There has been a power outage in our locality for many hours. Please resolve this issue as soon as possible.,Pending,
+JS-0365,Delhi,2026-07-26,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. Kindly take necessary action.,Pending,
+JS-0245,Haryana,2025-08-09,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. This problem is affecting daily life.,Under Process,
+JS-0440,Madhya Pradesh,2026-07-27,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. This problem is affecting daily life.,Resolved,16.0
+JS-0287,Rajasthan,2026-01-09,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. We have already complained but no action has been taken.,Resolved,15.0
+JS-0060,Uttarakhand,2026-09-12,Water Supply,Water Supply,Water pressure is very low in our residential area. Kindly take necessary action.,Resolved,23.0
+JS-0112,Uttar Pradesh,2025-02-01,Electricity,Electricity,There has been a power outage in our locality for many hours. Please resolve this issue as soon as possible.,Resolved,7.0
+JS-0090,Haryana,2026-01-29,Water Supply,Water Supply,Our village hand pump is not working and needs repair. Many families are facing difficulties.,Under Process,
+JS-0437,Jharkhand,2025-12-05,Municipal Services,Municipal Services,There is an overflowing drain near our residential area. Many families are facing difficulties.,Resolved,30.0
+JS-0007,Uttarakhand,2026-01-25,Water Supply,Water Supply,There has been no water supply in our locality for several days. Please resolve this issue as soon as possible.,Resolved,12.0
+JS-0361,Uttar Pradesh,2026-02-17,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. Kindly take necessary action. Contact number: 9000000000,Pending,
+JS-0347,Rajasthan,2026-03-03,Roads and Transport,Roads and Transport,Road construction work has been incomplete for several months. This problem is affecting daily life.,Resolved,16.0
+JS-0339,Delhi,2026-06-14,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. We have already complained but no action has been taken.,Pending,
+JS-0159,Jharkhand,2025-06-29,Electricity,Electricity,Our electricity connection application is still pending. Please resolve this issue as soon as possible.,Under Process,
+JS-0151,Rajasthan,2025-03-14,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. We have already complained but no action has been taken. Contact number: 9000000000,Resolved,30.0
+JS-0178,Madhya Pradesh,2026-08-09,Electricity,Electricity,The electricity bill is unusually high despite low consumption. Many families are facing difficulties.,Under Process,
+JS-0394,Rajasthan,2026-05-23,Roads and Transport,Roads and Transport,The main road in our village is damaged and full of potholes. We have already complained but no action has been taken.,Resolved,30.0
+JS-0185,Madhya Pradesh,2025-08-29,Electricity,Electricity,Our electricity connection application is still pending. Please resolve this issue as soon as possible.,Pending,
+JS-0450,Jharkhand,2025-12-12,Municipal Services,Municipal Services,The public park is not being maintained properly. This problem is affecting daily life.,Pending,
+JS-0011,Rajasthan,2025-08-27,Water Supply,Water Supply,Water pressure is very low in our residential area. Please resolve this issue as soon as possible. Contact number: 9000000000,Resolved,13.0
+JS-0381,Madhya Pradesh,2026-07-26,Roads and Transport,Roads and Transport,Road construction work has been incomplete for several months. Kindly take necessary action. Contact number: 9000000000,Pending,
+JS-0104,Madhya Pradesh,2026-07-14,Electricity,Electricity,Frequent power cuts are affecting residents and students. This problem is affecting daily life.,Resolved,16.0
+JS-0082,Haryana,2025-10-30,Water Supply,Water Supply,Water pressure is very low in our residential area. We have already complained but no action has been taken.,Resolved,7.0
+JS-0039,Uttar Pradesh,2026-02-25,Water Supply,Water Supply,Water pressure is very low in our residential area. We have already complained but no action has been taken.,Under Process,
+JS-0315,Haryana,2025-05-08,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. Kindly take necessary action.,Pending,
+JS-0168,Madhya Pradesh,2026-05-12,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. We have already complained but no action has been taken.,Resolved,1.0
+JS-0470,Haryana,2026-07-08,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. We have already complained but no action has been taken.,Pending,
+JS-0297,Bihar,2025-01-29,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. Many families are facing difficulties.,Pending,
+JS-0475,Rajasthan,2026-01-25,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. This problem is affecting daily life.,Resolved,25.0
+JS-0199,Uttar Pradesh,2025-05-21,Electricity,Electricity,Our electricity connection application is still pending. Kindly take necessary action.,Resolved,29.0
+JS-0298,Jharkhand,2025-05-21,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. Many families are facing difficulties.,Resolved,10.0
+JS-0417,Jharkhand,2025-03-03,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. This problem is affecting daily life.,Resolved,30.0
+JS-0147,Madhya Pradesh,2025-03-03,Electricity,Electricity,Our electricity connection application is still pending. This problem is affecting daily life.,Resolved,25.0
+JS-0393,Delhi,2025-06-29,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. Please resolve this issue as soon as possible.,Under Process,
+JS-0148,Delhi,2025-03-25,Electricity,Electricity,The electricity bill is unusually high despite low consumption. Kindly take necessary action.,Resolved,8.0
+JS-0448,Rajasthan,2026-08-17,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. This problem is affecting daily life.,Under Process,
+JS-0288,Jharkhand,2026-07-01,Public Distribution System,Public Distribution System,My name is missing from the ration card beneficiary list. Many families are facing difficulties.,Resolved,10.0
+JS-0124,Madhya Pradesh,2025-10-13,Electricity,Electricity,The electricity bill is unusually high despite low consumption. Please resolve this issue as soon as possible.,Under Process,
+JS-0369,Uttarakhand,2026-09-24,Roads and Transport,Roads and Transport,Road construction work has been incomplete for several months. We have already complained but no action has been taken.,Pending,
+JS-0097,Jharkhand,2026-10-04,Water Supply,Water Supply,Our village hand pump is not working and needs repair. We have already complained but no action has been taken.,Resolved,9.0
+JS-0144,Haryana,2025-03-29,Electricity,Electricity,Our electricity connection application is still pending. Kindly take necessary action.,Resolved,4.0
+JS-0240,Bihar,2025-12-25,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. Please resolve this issue as soon as possible.,Pending,
+JS-0443,Jharkhand,2025-10-17,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. Kindly take necessary action.,Under Process,
+JS-0098,Uttarakhand,2025-08-29,Water Supply,Water Supply,There has been no water supply in our locality for several days. Kindly take necessary action.,Pending,
+JS-0408,Madhya Pradesh,2026-07-05,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. We have already complained but no action has been taken.,Resolved,25.0
+JS-0123,Uttarakhand,2026-08-30,Electricity,Electricity,Frequent power cuts are affecting residents and students. We have already complained but no action has been taken.,Pending,
+JS-0184,Uttar Pradesh,2025-11-21,Electricity,Electricity,Our electricity connection application is still pending. We have already complained but no action has been taken.,Under Process,
+JS-0203,Uttarakhand,2026-05-09,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. Kindly take necessary action.,Pending,
+JS-0247,Uttar Pradesh,2026-09-03,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. This problem is affecting daily life.,Resolved,29.0
+JS-0306,Jharkhand,2025-03-11,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. Kindly take necessary action.,Resolved,13.0
+JS-0299,Bihar,2026-04-05,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. We have already complained but no action has been taken.,Resolved,29.0
+JS-0352,Madhya Pradesh,2026-07-30,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. This problem is affecting daily life.,Resolved,11.0
+JS-0387,Delhi,2025-10-05,Roads and Transport,Roads and Transport,Road construction work has been incomplete for several months. This problem is affecting daily life.,Pending,
+JS-0396,Delhi,2026-07-11,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. We have already complained but no action has been taken.,Under Process,
+JS-0285,Delhi,2026-09-04,Public Distribution System,Public Distribution System,The ration shop is demanding extra money for food grains. Many families are facing difficulties.,Under Process,
+JS-0126,Madhya Pradesh,2025-11-29,Electricity,Electricity,There has been a power outage in our locality for many hours. We have already complained but no action has been taken.,Resolved,16.0
+JS-0303,Madhya Pradesh,2026-09-04,Roads and Transport,Roads and Transport,The main road in our village is damaged and full of potholes. We have already complained but no action has been taken.,Resolved,21.0
+JS-0224,Madhya Pradesh,2026-01-06,Public Distribution System,Public Distribution System,My name is missing from the ration card beneficiary list. We have already complained but no action has been taken.,Resolved,15.0
+JS-0419,Haryana,2026-01-27,Municipal Services,Municipal Services,The public park is not being maintained properly. Kindly take necessary action.,Under Process,
+JS-0220,Rajasthan,2025-10-11,Public Distribution System,Public Distribution System,The ration shop is demanding extra money for food grains. Please resolve this issue as soon as possible.,Resolved,5.0
+JS-0130,Madhya Pradesh,2025-01-18,Electricity,Electricity,Frequent power cuts are affecting residents and students. We have already complained but no action has been taken.,Resolved,10.0
+JS-0421,Delhi,2026-07-05,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. Many families are facing difficulties. Contact number: 9000000000,Under Process,
+JS-0290,Delhi,2026-05-30,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. We have already complained but no action has been taken.,Under Process,
+JS-0445,Jharkhand,2026-04-23,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. We have already complained but no action has been taken.,Resolved,26.0
+JS-0377,Uttar Pradesh,2026-09-19,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. This problem is affecting daily life.,Under Process,
+JS-0292,Bihar,2026-07-22,Public Distribution System,Public Distribution System,My name is missing from the ration card beneficiary list. Kindly take necessary action.,Resolved,23.0
+JS-0356,Jharkhand,2025-07-14,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. Kindly take necessary action.,Resolved,16.0
+JS-0295,Uttar Pradesh,2025-01-28,Public Distribution System,Public Distribution System,My name is missing from the ration card beneficiary list. Kindly take necessary action.,Under Process,
+JS-0397,Bihar,2025-10-07,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. We have already complained but no action has been taken.,Resolved,26.0
+JS-0341,Delhi,2025-06-06,Roads and Transport,Roads and Transport,The main road in our village is damaged and full of potholes. This problem is affecting daily life. Contact number: 9000000000,Pending,
+JS-0113,Bihar,2025-09-02,Electricity,Electricity,Our electricity connection application is still pending. Many families are facing difficulties.,Resolved,16.0
+JS-0180,Uttarakhand,2026-05-23,Electricity,Electricity,Frequent power cuts are affecting residents and students. Many families are facing difficulties.,Resolved,5.0
+JS-0308,Bihar,2025-12-20,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. Please resolve this issue as soon as possible.,Resolved,24.0
+JS-0433,Delhi,2026-03-03,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. Kindly take necessary action.,Under Process,
+JS-0488,Uttarakhand,2025-01-07,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. Kindly take necessary action.,Under Process,
+JS-0482,Haryana,2025-10-26,Municipal Services,Municipal Services,The public park is not being maintained properly. Please resolve this issue as soon as possible.,Under Process,
+JS-0423,Madhya Pradesh,2026-06-29,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. We have already complained but no action has been taken.,Under Process,
+JS-0234,Bihar,2025-06-06,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. Kindly take necessary action.,Under Process,
+JS-0312,Rajasthan,2025-02-12,Roads and Transport,Roads and Transport,The main road in our village is damaged and full of potholes. Many families are facing difficulties.,Pending,
+JS-0165,Haryana,2026-07-10,Electricity,Electricity,Our electricity connection application is still pending. Please resolve this issue as soon as possible.,Under Process,
+JS-0137,Delhi,2025-08-21,Electricity,Electricity,The electricity bill is unusually high despite low consumption. Kindly take necessary action.,Pending,
+JS-0198,Madhya Pradesh,2025-12-27,Electricity,Electricity,The electricity bill is unusually high despite low consumption. This problem is affecting daily life.,Resolved,21.0
+JS-0259,Uttarakhand,2026-09-25,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. Many families are facing difficulties.,Under Process,
+JS-0233,Uttarakhand,2025-11-17,Public Distribution System,Public Distribution System,My name is missing from the ration card beneficiary list. Please resolve this issue as soon as possible.,Under Process,
+JS-0116,Rajasthan,2026-08-16,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. Please resolve this issue as soon as possible.,Resolved,30.0
+JS-0121,Delhi,2026-01-06,Electricity,Electricity,There has been a power outage in our locality for many hours. We have already complained but no action has been taken. Contact number: 9000000000,Under Process,
+JS-0350,Delhi,2025-07-28,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. We have already complained but no action has been taken.,Pending,
+JS-0225,Jharkhand,2026-06-18,Public Distribution System,Public Distribution System,The ration shop is demanding extra money for food grains. Please resolve this issue as soon as possible.,Pending,
+JS-0403,Uttarakhand,2026-08-20,Municipal Services,Municipal Services,There is an overflowing drain near our residential area. Kindly take necessary action.,Resolved,9.0
+JS-0398,Delhi,2026-04-15,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. Many families are facing difficulties.,Pending,
+JS-0128,Madhya Pradesh,2026-06-14,Electricity,Electricity,Our electricity connection application is still pending. Please resolve this issue as soon as possible.,Resolved,3.0
+JS-0286,Jharkhand,2026-10-02,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. Many families are facing difficulties.,Resolved,24.0
+JS-0412,Bihar,2026-08-21,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. Many families are facing difficulties.,Under Process,
+JS-0108,Haryana,2025-07-06,Electricity,Electricity,The electricity bill is unusually high despite low consumption. We have already complained but no action has been taken.,Resolved,9.0
+JS-0371,Bihar,2026-01-13,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. Please resolve this issue as soon as possible. Contact number: 9000000000,Pending,
+JS-0326,Bihar,2026-01-16,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. Kindly take necessary action.,Under Process,
+JS-0134,Bihar,2025-07-17,Electricity,Electricity,The electricity bill is unusually high despite low consumption. Please resolve this issue as soon as possible.,Pending,
+JS-0453,Uttar Pradesh,2025-03-18,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. Please resolve this issue as soon as possible.,Resolved,25.0
+JS-0045,Haryana,2026-02-15,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. Many families are facing difficulties.,Resolved,6.0
+JS-0461,Haryana,2026-02-11,Municipal Services,Municipal Services,There is an overflowing drain near our residential area. Kindly take necessary action. Contact number: 9000000000,Resolved,12.0
+JS-0066,Delhi,2025-06-01,Water Supply,Water Supply,Our village hand pump is not working and needs repair. This problem is affecting daily life.,Under Process,
+JS-0284,Uttarakhand,2026-06-24,Public Distribution System,Public Distribution System,The ration shop is demanding extra money for food grains. This problem is affecting daily life.,Resolved,22.0
+JS-0086,Delhi,2025-08-07,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. We have already complained but no action has been taken.,Under Process,
+JS-0243,Delhi,2025-01-07,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. Kindly take necessary action.,Resolved,28.0
+JS-0187,Uttar Pradesh,2025-02-17,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. Please resolve this issue as soon as possible.,Pending,
+JS-0384,Haryana,2026-07-11,Roads and Transport,Roads and Transport,The main road in our village is damaged and full of potholes. This problem is affecting daily life.,Under Process,
+JS-0160,Jharkhand,2026-08-23,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. Many families are facing difficulties.,Under Process,
+JS-0013,Madhya Pradesh,2025-03-15,Water Supply,Water Supply,The drinking water pipeline is leaking and wasting water. Kindly take necessary action.,Resolved,18.0
+JS-0036,Jharkhand,2025-03-14,Water Supply,Water Supply,There has been no water supply in our locality for several days. Kindly take necessary action.,Resolved,9.0
+JS-0029,Jharkhand,2026-08-04,Water Supply,Water Supply,There has been no water supply in our locality for several days. Many families are facing difficulties.,Resolved,3.0
+JS-0171,Haryana,2025-10-26,Electricity,Electricity,The electricity bill is unusually high despite low consumption. We have already complained but no action has been taken. Contact number: 9000000000,Pending,
+JS-0143,Delhi,2026-10-07,Electricity,Electricity,There has been a power outage in our locality for many hours. This problem is affecting daily life.,Resolved,5.0
+JS-0399,Haryana,2025-10-30,Roads and Transport,Roads and Transport,The main road in our village is damaged and full of potholes. Kindly take necessary action.,Resolved,6.0
+JS-0343,Delhi,2025-07-21,Roads and Transport,Roads and Transport,The main road in our village is damaged and full of potholes. Kindly take necessary action.,Pending,
+JS-0222,Rajasthan,2025-11-28,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. This problem is affecting daily life.,Resolved,6.0
+JS-0096,Rajasthan,2025-09-23,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. We have already complained but no action has been taken.,Resolved,27.0
+JS-0052,Rajasthan,2026-03-06,Water Supply,Water Supply,Our village hand pump is not working and needs repair. Please resolve this issue as soon as possible.,Pending,
+JS-0241,Uttar Pradesh,2025-08-20,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. This problem is affecting daily life. Contact number: 9000000000,Under Process,
+JS-0485,Rajasthan,2025-03-06,Municipal Services,Municipal Services,The public park is not being maintained properly. Many families are facing difficulties.,Resolved,14.0
+JS-0379,Uttarakhand,2025-11-18,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. We have already complained but no action has been taken.,Resolved,15.0
+JS-0179,Haryana,2025-11-22,Electricity,Electricity,Frequent power cuts are affecting residents and students. Please resolve this issue as soon as possible.,Under Process,
+JS-0042,Madhya Pradesh,2025-10-13,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. Many families are facing difficulties.,Under Process,
+JS-0499,Madhya Pradesh,2026-01-04,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. Please resolve this issue as soon as possible.,Resolved,4.0
+JS-0422,Jharkhand,2025-01-24,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. Please resolve this issue as soon as possible.,Pending,
+JS-0207,Bihar,2026-01-26,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. This problem is affecting daily life.,Pending,
+JS-0283,Bihar,2025-06-08,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. Many families are facing difficulties.,Resolved,10.0
+JS-0255,Uttarakhand,2026-01-25,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. Many families are facing difficulties.,Resolved,17.0
+JS-0413,Delhi,2025-02-26,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. We have already complained but no action has been taken.,Under Process,
+JS-0005,Delhi,2025-10-12,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. This problem is affecting daily life.,Resolved,25.0
+JS-0257,Haryana,2025-11-17,Public Distribution System,Public Distribution System,My name is missing from the ration card beneficiary list. Please resolve this issue as soon as possible.,Under Process,
+JS-0449,Madhya Pradesh,2025-12-04,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. Many families are facing difficulties.,Resolved,13.0
+JS-0101,Uttar Pradesh,2026-04-23,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. This problem is affecting daily life. Contact number: 9000000000,Under Process,
+JS-0227,Bihar,2026-03-31,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. We have already complained but no action has been taken.,Resolved,29.0
+JS-0430,Rajasthan,2026-06-18,Municipal Services,Municipal Services,There is an overflowing drain near our residential area. Many families are facing difficulties.,Resolved,14.0
+JS-0214,Jharkhand,2025-08-11,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. Kindly take necessary action.,Under Process,
+JS-0172,Delhi,2025-09-07,Electricity,Electricity,Frequent power cuts are affecting residents and students. We have already complained but no action has been taken.,Under Process,
+JS-0099,Madhya Pradesh,2025-03-24,Water Supply,Water Supply,Water pressure is very low in our residential area. This problem is affecting daily life.,Resolved,5.0
+JS-0293,Jharkhand,2025-06-14,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. Please resolve this issue as soon as possible.,Pending,
+JS-0216,Jharkhand,2025-10-10,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. We have already complained but no action has been taken.,Resolved,4.0
+JS-0062,Rajasthan,2026-10-12,Water Supply,Water Supply,There has been no water supply in our locality for several days. Please resolve this issue as soon as possible.,Under Process,
+JS-0048,Uttarakhand,2026-08-17,Water Supply,Water Supply,The drinking water pipeline is leaking and wasting water. Please resolve this issue as soon as possible.,Resolved,24.0
+JS-0033,Madhya Pradesh,2026-04-08,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. This problem is affecting daily life.,Resolved,8.0
+JS-0268,Bihar,2026-08-29,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. Kindly take necessary action.,Resolved,12.0
+JS-0328,Delhi,2025-09-13,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. Kindly take necessary action.,Resolved,1.0
+JS-0201,Delhi,2025-12-01,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. Kindly take necessary action. Contact number: 9000000000,Under Process,
+JS-0447,Rajasthan,2025-08-15,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. This problem is affecting daily life.,Resolved,1.0
+JS-0028,Madhya Pradesh,2026-01-07,Water Supply,Water Supply,There has been no water supply in our locality for several days. Please resolve this issue as soon as possible.,Pending,
+JS-0425,Madhya Pradesh,2026-03-06,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. Please resolve this issue as soon as possible.,Resolved,8.0
+JS-0231,Jharkhand,2026-07-19,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. Please resolve this issue as soon as possible. Contact number: 9000000000,Resolved,14.0
+JS-0261,Uttarakhand,2026-02-10,Public Distribution System,Public Distribution System,The ration shop is demanding extra money for food grains. Please resolve this issue as soon as possible. Contact number: 9000000000,Pending,
+JS-0289,Jharkhand,2026-08-08,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. Kindly take necessary action.,Under Process,
+JS-0163,Bihar,2026-02-15,Electricity,Electricity,Frequent power cuts are affecting residents and students. Kindly take necessary action.,Resolved,15.0
+JS-0426,Uttar Pradesh,2026-09-01,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. Please resolve this issue as soon as possible.,Resolved,15.0
+JS-0139,Jharkhand,2025-10-27,Electricity,Electricity,There has been a power outage in our locality for many hours. This problem is affecting daily life.,Resolved,21.0
+JS-0063,Rajasthan,2025-12-08,Water Supply,Water Supply,There has been no water supply in our locality for several days. Please resolve this issue as soon as possible.,Resolved,21.0
+JS-0136,Bihar,2026-06-22,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. This problem is affecting daily life.,Pending,
+JS-0129,Jharkhand,2026-07-23,Electricity,Electricity,Frequent power cuts are affecting residents and students. We have already complained but no action has been taken.,Resolved,23.0
+JS-0477,Uttarakhand,2026-02-03,Municipal Services,Municipal Services,The public park is not being maintained properly. Many families are facing difficulties.,Pending,
+JS-0009,Uttarakhand,2026-07-20,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. Please resolve this issue as soon as possible.,Pending,
+JS-0327,Haryana,2026-06-27,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. Many families are facing difficulties.,Pending,
+JS-0464,Delhi,2025-02-27,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. We have already complained but no action has been taken.,Resolved,23.0
+JS-0065,Uttarakhand,2025-06-02,Water Supply,Water Supply,There has been no water supply in our locality for several days. Please resolve this issue as soon as possible.,Resolved,27.0
+JS-0301,Bihar,2025-09-01,Roads and Transport,Roads and Transport,The main road in our village is damaged and full of potholes. Kindly take necessary action. Contact number: 9000000000,Pending,
+JS-0015,Uttarakhand,2025-08-23,Water Supply,Water Supply,Water pressure is very low in our residential area. Please resolve this issue as soon as possible.,Resolved,26.0
+JS-0157,Rajasthan,2026-03-19,Electricity,Electricity,Our electricity connection application is still pending. Please resolve this issue as soon as possible.,Pending,
+JS-0041,Delhi,2025-07-14,Water Supply,Water Supply,The drinking water pipeline is leaking and wasting water. Many families are facing difficulties. Contact number: 9000000000,Under Process,
+JS-0380,Madhya Pradesh,2025-09-28,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. Kindly take necessary action.,Under Process,
+JS-0469,Madhya Pradesh,2025-11-03,Municipal Services,Municipal Services,The public park is not being maintained properly. Please resolve this issue as soon as possible.,Resolved,19.0
+JS-0404,Rajasthan,2025-05-02,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. Please resolve this issue as soon as possible.,Under Process,
+JS-0217,Uttarakhand,2026-09-04,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. Many families are facing difficulties.,Resolved,2.0
+JS-0280,Haryana,2026-06-24,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. Many families are facing difficulties.,Resolved,21.0
+JS-0435,Uttar Pradesh,2025-05-28,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. Kindly take necessary action.,Under Process,
+JS-0431,Haryana,2026-07-25,Municipal Services,Municipal Services,There is an overflowing drain near our residential area. Please resolve this issue as soon as possible. Contact number: 9000000000,Resolved,21.0
+JS-0338,Bihar,2025-05-09,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. Please resolve this issue as soon as possible.,Pending,
+JS-0237,Uttar Pradesh,2025-12-29,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. We have already complained but no action has been taken.,Under Process,
+JS-0208,Madhya Pradesh,2025-01-26,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. We have already complained but no action has been taken.,Pending,
+JS-0213,Rajasthan,2026-09-23,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. We have already complained but no action has been taken.,Under Process,
+JS-0296,Bihar,2026-01-18,Public Distribution System,Public Distribution System,My name is missing from the ration card beneficiary list. This problem is affecting daily life.,Resolved,13.0
+JS-0458,Uttar Pradesh,2025-10-09,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. This problem is affecting daily life.,Pending,
+JS-0252,Madhya Pradesh,2026-02-09,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. Many families are facing difficulties.,Resolved,1.0
+JS-0489,Uttarakhand,2025-12-04,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. We have already complained but no action has been taken.,Under Process,
+JS-0487,Bihar,2026-09-01,Municipal Services,Municipal Services,Street lights are not working and the road is dark at night. We have already complained but no action has been taken.,Resolved,15.0
+JS-0304,Uttarakhand,2026-03-16,Roads and Transport,Roads and Transport,Road construction work has been incomplete for several months. Kindly take necessary action.,Resolved,20.0
+JS-0351,Delhi,2025-12-20,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. Kindly take necessary action. Contact number: 9000000000,Under Process,
+JS-0270,Jharkhand,2025-04-03,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. Please resolve this issue as soon as possible.,Under Process,
+JS-0202,Rajasthan,2026-07-07,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. Many families are facing difficulties.,Pending,
+JS-0162,Haryana,2025-06-14,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. Please resolve this issue as soon as possible.,Pending,
+JS-0044,Jharkhand,2025-06-20,Water Supply,Water Supply,There has been no water supply in our locality for several days. Many families are facing difficulties.,Under Process,
+JS-0218,Madhya Pradesh,2026-08-02,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. Many families are facing difficulties.,Resolved,3.0
+JS-0402,Rajasthan,2026-01-28,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. Kindly take necessary action.,Resolved,15.0
+JS-0191,Rajasthan,2025-09-18,Electricity,Electricity,The electricity bill is unusually high despite low consumption. We have already complained but no action has been taken. Contact number: 9000000000,Under Process,
+JS-0310,Delhi,2026-05-06,Roads and Transport,Roads and Transport,Road construction work has been incomplete for several months. We have already complained but no action has been taken.,Resolved,26.0
+JS-0260,Haryana,2025-04-19,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. We have already complained but no action has been taken.,Resolved,14.0
+JS-0106,Uttar Pradesh,2026-04-24,Electricity,Electricity,Frequent power cuts are affecting residents and students. Many families are facing difficulties.,Resolved,20.0
+JS-0054,Bihar,2026-04-14,Water Supply,Water Supply,The drinking water pipeline is leaking and wasting water. Kindly take necessary action.,Pending,
+JS-0390,Delhi,2025-04-13,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. We have already complained but no action has been taken.,Resolved,1.0
+JS-0002,Uttar Pradesh,2025-03-31,Water Supply,Water Supply,There has been no water supply in our locality for several days. This problem is affecting daily life.,Under Process,
+JS-0442,Madhya Pradesh,2025-09-06,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. We have already complained but no action has been taken.,Resolved,13.0
+JS-0483,Haryana,2025-09-06,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. This problem is affecting daily life.,Resolved,22.0
+JS-0050,Bihar,2025-03-24,Water Supply,Water Supply,There has been no water supply in our locality for several days. This problem is affecting daily life.,Resolved,3.0
+JS-0420,Uttarakhand,2026-07-07,Municipal Services,Municipal Services,The public park is not being maintained properly. Please resolve this issue as soon as possible.,Resolved,21.0
+JS-0081,Haryana,2026-06-04,Water Supply,Water Supply,There has been no water supply in our locality for several days. Kindly take necessary action. Contact number: 9000000000,Pending,
+JS-0206,Uttarakhand,2026-07-04,Public Distribution System,Public Distribution System,The ration shop is not distributing the full quantity of food grains. Kindly take necessary action.,Resolved,15.0
+JS-0035,Bihar,2026-10-09,Water Supply,Water Supply,There has been no water supply in our locality for several days. Please resolve this issue as soon as possible.,Resolved,8.0
+JS-0264,Madhya Pradesh,2025-04-16,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. Many families are facing difficulties.,Resolved,9.0
+JS-0428,Rajasthan,2025-02-27,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. Many families are facing difficulties.,Resolved,17.0
+JS-0367,Jharkhand,2025-05-21,Roads and Transport,Roads and Transport,The main road in our village is damaged and full of potholes. Please resolve this issue as soon as possible.,Pending,
+JS-0092,Uttar Pradesh,2026-06-15,Water Supply,Water Supply,The drinking water pipeline is leaking and wasting water. Many families are facing difficulties.,Under Process,
+JS-0340,Uttar Pradesh,2025-07-06,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. This problem is affecting daily life.,Resolved,14.0
+JS-0474,Haryana,2025-12-31,Municipal Services,Municipal Services,The public park is not being maintained properly. Many families are facing difficulties.,Under Process,
+JS-0053,Haryana,2025-09-02,Water Supply,Water Supply,The drinking water pipeline is leaking and wasting water. Kindly take necessary action.,Pending,
+JS-0346,Rajasthan,2025-01-30,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. Please resolve this issue as soon as possible.,Resolved,2.0
+JS-0265,Jharkhand,2025-06-06,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. This problem is affecting daily life.,Resolved,6.0
+JS-0242,Rajasthan,2025-01-30,Public Distribution System,Public Distribution System,The ration shop is demanding extra money for food grains. Kindly take necessary action.,Resolved,9.0
+JS-0014,Madhya Pradesh,2026-01-24,Water Supply,Water Supply,The drinking water pipeline is leaking and wasting water. We have already complained but no action has been taken.,Pending,
+JS-0316,Delhi,2026-01-31,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. We have already complained but no action has been taken.,Pending,
+JS-0089,Haryana,2026-05-02,Water Supply,Water Supply,There has been no water supply in our locality for several days. Many families are facing difficulties.,Resolved,15.0
+JS-0388,Uttar Pradesh,2026-08-24,Roads and Transport,Roads and Transport,The main road in our village is damaged and full of potholes. This problem is affecting daily life.,Resolved,8.0
+JS-0274,Uttarakhand,2026-06-21,Public Distribution System,Public Distribution System,My name is missing from the ration card beneficiary list. We have already complained but no action has been taken.,Resolved,12.0
+JS-0167,Delhi,2025-07-28,Electricity,Electricity,Frequent power cuts are affecting residents and students. Please resolve this issue as soon as possible.,Pending,
+JS-0329,Rajasthan,2026-02-01,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. This problem is affecting daily life.,Resolved,9.0
+JS-0493,Uttarakhand,2025-10-15,Municipal Services,Municipal Services,There is an overflowing drain near our residential area. We have already complained but no action has been taken.,Under Process,
+JS-0135,Jharkhand,2025-07-16,Electricity,Electricity,Our electricity connection application is still pending. Many families are facing difficulties.,Resolved,24.0
+JS-0307,Uttar Pradesh,2026-01-18,Roads and Transport,Roads and Transport,The main road in our village is damaged and full of potholes. We have already complained but no action has been taken.,Pending,
+JS-0481,Uttarakhand,2025-12-29,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. Please resolve this issue as soon as possible. Contact number: 9000000000,Resolved,20.0
+JS-0320,Delhi,2026-09-10,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. We have already complained but no action has been taken.,Under Process,
+JS-0244,Uttar Pradesh,2025-03-13,Public Distribution System,Public Distribution System,The ration shop is demanding extra money for food grains. We have already complained but no action has been taken.,Resolved,24.0
+JS-0055,Madhya Pradesh,2026-09-29,Water Supply,Water Supply,There has been no water supply in our locality for several days. We have already complained but no action has been taken.,Resolved,3.0
+JS-0364,Haryana,2025-05-02,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. This problem is affecting daily life.,Resolved,4.0
+JS-0051,Uttar Pradesh,2025-05-03,Water Supply,Water Supply,The drinking water pipeline is leaking and wasting water. We have already complained but no action has been taken. Contact number: 9000000000,Resolved,19.0
+JS-0457,Uttar Pradesh,2026-06-29,Municipal Services,Municipal Services,Garbage has not been collected from our locality for many days. Please resolve this issue as soon as possible.,Under Process,
+JS-0175,Delhi,2026-08-25,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. Kindly take necessary action.,Under Process,
+JS-0446,Haryana,2026-01-15,Municipal Services,Municipal Services,There is an overflowing drain near our residential area. Many families are facing difficulties.,Pending,
+JS-0190,Delhi,2026-01-27,Electricity,Electricity,There has been a power outage in our locality for many hours. This problem is affecting daily life.,Resolved,16.0
+JS-0497,Bihar,2026-03-10,Municipal Services,Municipal Services,There is an overflowing drain near our residential area. Many families are facing difficulties.,Under Process,
+JS-0188,Delhi,2026-01-19,Electricity,Electricity,The electric transformer is damaged and needs immediate repair. Kindly take necessary action.,Under Process,
+JS-0170,Bihar,2025-04-27,Electricity,Electricity,There has been a power outage in our locality for many hours. Many families are facing difficulties.,Under Process,
+JS-0059,Delhi,2025-04-29,Water Supply,Water Supply,The drinking water pipeline is leaking and wasting water. Kindly take necessary action.,Resolved,24.0
+JS-0049,Delhi,2026-08-22,Water Supply,Water Supply,There has been no water supply in our locality for several days. Please resolve this issue as soon as possible.,Under Process,
+JS-0345,Uttarakhand,2025-06-07,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. This problem is affecting daily life.,Resolved,22.0
+JS-0236,Uttarakhand,2026-07-24,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. Many families are facing difficulties.,Resolved,19.0
+JS-0253,Rajasthan,2025-05-21,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. Many families are facing difficulties.,Pending,
+JS-0022,Uttar Pradesh,2026-06-26,Water Supply,Water Supply,Our village hand pump is not working and needs repair. We have already complained but no action has been taken.,Pending,
+JS-0314,Uttar Pradesh,2025-10-20,Roads and Transport,Roads and Transport,The main road in our village is damaged and full of potholes. Many families are facing difficulties.,Pending,
+JS-0460,Rajasthan,2025-09-04,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. Many families are facing difficulties.,Resolved,20.0
+JS-0161,Uttarakhand,2025-12-23,Electricity,Electricity,There has been a power outage in our locality for many hours. We have already complained but no action has been taken. Contact number: 9000000000,Under Process,
+JS-0277,Bihar,2026-09-10,Public Distribution System,Public Distribution System,The fair price shop dealer is refusing to provide subsidized ration. Kindly take necessary action.,Resolved,11.0
+JS-0444,Uttarakhand,2025-11-12,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. Kindly take necessary action.,Pending,
+JS-0192,Jharkhand,2025-10-22,Electricity,Electricity,There has been a power outage in our locality for many hours. We have already complained but no action has been taken.,Resolved,3.0
+JS-0386,Madhya Pradesh,2025-09-20,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. We have already complained but no action has been taken.,Under Process,
+JS-0294,Madhya Pradesh,2026-03-24,Public Distribution System,Public Distribution System,The ration shop is demanding extra money for food grains. Many families are facing difficulties.,Resolved,30.0
+JS-0414,Jharkhand,2026-04-13,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. We have already complained but no action has been taken.,Resolved,18.0
+JS-0344,Delhi,2026-07-01,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. This problem is affecting daily life.,Resolved,17.0
+JS-0258,Uttar Pradesh,2025-04-28,Public Distribution System,Public Distribution System,My name is missing from the ration card beneficiary list. Kindly take necessary action.,Under Process,
+JS-0309,Uttarakhand,2025-05-17,Roads and Transport,Roads and Transport,A damaged road is creating safety problems for commuters. Kindly take necessary action.,Resolved,12.0
+JS-0150,Rajasthan,2025-10-26,Electricity,Electricity,Our electricity connection application is still pending. We have already complained but no action has been taken.,Resolved,8.0
+JS-0131,Jharkhand,2025-11-10,Electricity,Electricity,Frequent power cuts are affecting residents and students. Many families are facing difficulties. Contact number: 9000000000,Pending,
+JS-0152,Madhya Pradesh,2026-03-12,Electricity,Electricity,Our electricity connection application is still pending. Many families are facing difficulties.,Resolved,18.0
+JS-0360,Delhi,2025-01-09,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. This problem is affecting daily life.,Resolved,14.0
+JS-0100,Haryana,2025-08-08,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. Many families are facing difficulties.,Resolved,14.0
+JS-0373,Uttar Pradesh,2026-08-15,Roads and Transport,Roads and Transport,The street has no proper drainage and becomes flooded during rain. This problem is affecting daily life.,Resolved,24.0
+JS-0088,Uttar Pradesh,2025-08-19,Water Supply,Water Supply,The drinking water pipeline is leaking and wasting water. Kindly take necessary action.,Resolved,5.0
+JS-0459,Bihar,2025-07-03,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. We have already complained but no action has been taken.,Resolved,30.0
+JS-0331,Delhi,2025-05-19,Roads and Transport,Roads and Transport,Road construction work has been incomplete for several months. Please resolve this issue as soon as possible. Contact number: 9000000000,Resolved,15.0
+JS-0215,Uttarakhand,2025-04-12,Public Distribution System,Public Distribution System,My ration card application has been pending for several months. Kindly take necessary action.,Pending,
+JS-0467,Uttar Pradesh,2025-03-18,Municipal Services,Municipal Services,There is an overflowing drain near our residential area. Please resolve this issue as soon as possible.,Pending,
+JS-0122,Jharkhand,2026-06-19,Electricity,Electricity,Frequent power cuts are affecting residents and students. Many families are facing difficulties.,Pending,
+JS-0500,Haryana,2026-09-20,Municipal Services,Municipal Services,There is an overflowing drain near our residential area. Many families are facing difficulties.,Resolved,19.0
+JS-0021,Haryana,2025-03-07,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. This problem is affecting daily life. Contact number: 9000000000,Under Process,
+JS-0189,Delhi,2026-02-26,Electricity,Electricity,The electricity bill is unusually high despite low consumption. This problem is affecting daily life.,Resolved,6.0
+JS-0072,Uttarakhand,2025-07-24,Water Supply,Water Supply,The supplied water is dirty and not suitable for drinking. Many families are facing difficulties.,Under Process,
+JS-0107,Haryana,2026-08-01,Electricity,Electricity,Frequent power cuts are affecting residents and students. This problem is affecting daily life.,Resolved,3.0
+JS-0271,Madhya Pradesh,2025-02-12,Public Distribution System,Public Distribution System,The ration shop is demanding extra money for food grains. This problem is affecting daily life. Contact number: 9000000000,Under Process,
+JS-0349,Haryana,2025-03-03,Roads and Transport,Roads and Transport,The public bus service is irregular in our area. Please resolve this issue as soon as possible.,Resolved,15.0
+JS-0436,Madhya Pradesh,2026-03-03,Municipal Services,Municipal Services,Stray waste and sanitation problems are affecting our locality. We have already complained but no action has been taken.,Resolved,13.0
+JS-0103,Haryana,2025-12-27,Electricity,Electricity,Frequent power cuts are affecting residents and students. Please resolve this issue as soon as possible.,Pending,
